@@ -14,7 +14,6 @@ public class Backlog {
     private long id;
 
     private Integer PTSequence = 0;
-
     private String projectIdentifier;
 
     //OneToOne with Project
